@@ -12,7 +12,7 @@ To help guide the implementation of the workshop series, we defined several goal
 * Students will also improve their AI literacy by learning to recognize AI-generated content and understanding the shortcomings of AI tools like large language models and text-to-image models.
 
 ### Acknowledgements
-The workshops were facilitated through the [Cornell Science and Technology Entry Program-Upward Partnership (STEP-UP)](https://einhorn.cornell.edu/opportunity/science-and-technology-entry-program/) Summer Internship program. We are thankful to the students who participated in our workshop sessions. This work was funded in part by the ICICLE-National Science Foundation AI Institutes Educational Fellowship.
+The workshops were facilitated through the [Cornell Science and Technology Entry Program-Upward Partnership (STEP-UP)](https://einhorn.cornell.edu/opportunity/science-and-technology-entry-program/) Summer Internship program. We are thankful to the students who participated in our workshop sessions. This work was funded in part by the [ICICLE-National Science Foundation AI Institutes Educational Fellowship](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program).
 
 ### Suggested Citation
 Chinasa T. Okolo. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." In Proceedings of the 2024 Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT).
