@@ -15,7 +15,7 @@ To help guide the implementation of the workshop series, we defined several goal
 The workshops were facilitated through the [Cornell Science and Technology Entry Program-Upward Partnership (STEP-UP)](https://einhorn.cornell.edu/opportunity/science-and-technology-entry-program/) Summer Internship program. We are thankful to the students who participated in our workshop sessions. This work was funded in part by the [ICICLE-National Science Foundation AI Institutes Educational Fellowship](https://icicle.osu.edu/education-and-outreach/icicle-educational-fellows-program).
 
 ### Suggested Citation
-Chinasa T. Okolo. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." In Proceedings of the 2024 Conference for Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT).
+Okolo, Chinasa T. "Beyond AI Hype: A Hands-on Workshop Series for Enhancing AI Literacy in Middle and High School Students." In Proceedings of the 2024 on RESPECT Annual Conference, pp. 86-93. 2024. https://dl.acm.org/doi/abs/10.1145/3653666.3656075
 
 ### Attribution and Licensing
 _All content in this repository is copyrighted by Chinasa T. Okolo. The materials are available under a [Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)._
